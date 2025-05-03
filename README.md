@@ -73,8 +73,8 @@ If the output is not close enough:
 - Adjust style terms (e.g., "high-resolution photograph" instead of "realistic image")
 - Include mood descriptors ("calm", "cozy", etc.)
 
-🔁 Repeat generation until satisfied.
 
+![1fcede6c-19ff-4d72-9b23-b34d18af8ef3](https://github.com/user-attachments/assets/328eb334-3c4b-41ba-b9e2-54c443efba53)
 
 ## ✅ **Result**  
 The AI successfully reproduces the selected image with high similarity using a well-crafted prompt. This validates how detailed, thoughtful prompt engineering can direct AI output effectively.
